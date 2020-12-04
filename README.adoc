@@ -1,0 +1,19 @@
+// Settings
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+:imagesdir: imgs
+
+WARNING: *If using the link:https://www.teamfortress.tv/22586/particle-limitation-pack[Particle Limitation Pack], these steps are required.* +
+Pick ```no_MuzzleFlashes.vpk``` or the former to use, then do the following:
+image:explorer_8nI0oLJmU1.png[]
+*Optionally*, remove the useless 'particles' folder located in 'carlzalph_particles -> particles': +
+image:explorer_j2MZkXlG5k.png[]
+
+=== no_MuzzleFlashes-sentry_MF_visible.vpk
+Nulls the properties of all particles still visible (that the included weapon scripts didn't take care of); muzzle flashes for Sentry Guns are left turned on.
+
+=== no_MuzzleFlashes.vpk
+Same process as the VPK above, with Sentry Gun particles also nulled.

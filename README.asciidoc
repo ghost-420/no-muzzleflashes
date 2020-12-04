@@ -1,5 +1,0 @@
-=== no_MuzzleFlashes-sentry_MF_visible.vpk
-Nulls the properties of all particles still visible (that the included weapon scripts didn't take care of); muzzle flashes for Sentry Guns are left turned on.
-
-=== no_MuzzleFlashes.vpk
-Same process as the VPK above, with Sentry Gun particles also nulled.
